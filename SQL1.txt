@@ -2,3 +2,10 @@ Select
 	column1
 from
 	table 1
+
+where
+	thing = otherthing
+
+	and
+
+	thing2 = otherthng2
