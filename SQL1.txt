@@ -1,4 +1,8 @@
+-- We need column1 for business.
 Select
 	column1
 from
 	table 1
+
+where
+	thing = otherthing
