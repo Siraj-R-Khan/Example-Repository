@@ -1,6 +1,6 @@
 -- We need column1 for business.
 Select
-	column1
+	column1  -- This is wrong.
 from
 	table 1
 
